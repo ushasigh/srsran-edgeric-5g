@@ -30,3 +30,8 @@ sudo ip netns exec ue4 python3 server.py --host 172.16.0.5 --port 12345
 ```
 Start the clients
 ```bash
+sudo python3 client_embb.py --host 172.16.0.2 --port 12345  #--burst 250000 --min-interval 0.5 --max-interval 2.0
+sudo python3 client_urllc.py --host 172.16.0.3 --port 12345
+sudo python3 client_xr.py --host 172.16.0.4 --port 12345
+sudo python3 client_mmtc.py --host 172.16.0.5 --port 12345
+```
