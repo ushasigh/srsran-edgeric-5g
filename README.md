@@ -5,8 +5,8 @@ Website: https://edgeric.github.io
 
 ## Repository structure
 This repository is a collection of multiple folders containing the code for ``srsue (4G)``, ``modified srsgnb`` and ``edgeric``    
-**Documentation for EdgeRIC compatible srsRAN** Located in [srsRAN-5G-ER](https://github.com/ucsdwcsng/srsRAN-5G-ER/tree/main)   
-**Documentation for EdgeRIC-v2** Located in [edgeric-v2](https://github.com/ucsdwcsng/EdgeRIC-v2/tree/master)     
+**Documentation for EdgeRIC compatible srsRAN** Located in ``srsRAN-5G-ER``    
+**Documentation for EdgeRIC-v2** Located in ``edgeric-v2``      
   
 ```bash
 ├── edgeric-v2        : Codebase for EdgeRIC
