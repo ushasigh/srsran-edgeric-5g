@@ -97,10 +97,8 @@ Update the UE config files, update ``[rf]`` section with the following, [refer h
 ``device_name = uhd``  
 ``device_args = ip_addr_of_sdr`` 
 
-#### Running Amarisoft over the Air [TODO]
-
 ## Traffic Generation
-
+More details: [traffic-generator](https://github.com/ushasigh/srsran-edgeric-5g/tree/main/traffic-generator)
 ```bash
 cd traffic-generator
 sudo ./iperf_server_2ues.sh
