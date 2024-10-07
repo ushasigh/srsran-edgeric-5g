@@ -1,4 +1,5 @@
-
+This repository supports the the real time RIC - EdgeRIC with the srsRAN cellular network stack.  
+Website: https://edgeric.github.io  
 ## Current Implementation 
 ![Image 1](./images/ER-09-09-24.png "This is image ER")  
 
